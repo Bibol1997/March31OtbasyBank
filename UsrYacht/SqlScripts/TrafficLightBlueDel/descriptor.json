@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "34c84bcf-2993-b049-984a-0a12d943f63b",
+    "Name": "TrafficLightBlueDel",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1775046796000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
