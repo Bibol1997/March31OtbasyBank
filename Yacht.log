@@ -1,0 +1,13 @@
+﻿2026-04-07 17:11:50,667 Loading file: Yacht.zip 100%
+2026-04-07 17:11:51,774 Application install from file started. Application name: Yacht. Code: Yacht.
+2026-04-07 17:11:51,774 Preparing packages for installation
+2026-04-07 17:11:51,789 Cannot combine app info from 1 descriptors - base descriptor not found (code: CrtCustomer360App)
+2026-04-07 17:11:52,491 Cannot combine app info from 1 descriptors - base descriptor not found (code: CrtCustomer360App)
+2026-04-07 17:11:54,075 System.ApplicationException: The application Yacht cannot be installed in this environment. Some required dependencies are missing and cannot be retrieved automatically from the application catalog. To install the application, manually install the required applications or packages listed below and try again.
+type: Package, name: CrtCustomer360App, required Version: -, installed Version: -
+   at Terrasoft.Core.Applications.Installation.AppInstallInfoResolver.AppDependenciesResolver.ValidateInstallInfos(ICollection`1 installInfos)
+   at Terrasoft.Core.Applications.Installation.AppInstallInfoResolver.AppDependenciesResolver.ValidateAndDownloadCorrectedApp(String sourcePath, String destinationPath, String originalSourcePath)
+   at Terrasoft.Core.Applications.Installation.PackageZipInstaller.Install(String sourcePath, String destinationPath, PackageInstallOptions installOptions, String originalSourcePath)
+   at Terrasoft.Core.Applications.Installation.AppInstaller.Install(AppInstallParameters parameters)
+   at Terrasoft.Core.ServiceModelContract.PackageInstaller.AppInstallerServiceInternal.<>c__DisplayClass33_0.<InstallApp>b__0()
+   at Terrasoft.Core.ServiceModelContract.PackageInstaller.BaseInstallerServiceInternal.InvokeWithLogging[TResult](Func`1 action)
