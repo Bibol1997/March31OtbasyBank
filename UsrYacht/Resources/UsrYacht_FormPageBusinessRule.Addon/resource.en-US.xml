@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.7e1ea8fb-a6cd-5730-4fbc-9daca11d4e20.Caption" Value="Hide elements: Price per day, USA" />
+			<Item Name="AddonConfig.Rules.b766f70c-51e3-89ea-4d47-55841b6b82e5.Caption" Value="Hide elements: Tikcet price" />
+			<Item Name="Caption" Value="Yacht form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

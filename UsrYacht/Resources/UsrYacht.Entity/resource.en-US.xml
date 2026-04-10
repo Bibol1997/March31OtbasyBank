@@ -14,6 +14,7 @@
 			<Item Name="Columns.UsrPassengersCount.Caption" Value="Passengers count" />
 			<Item Name="Columns.UsrPrice.Caption" Value="Price per day, USA" />
 			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="Columns.UsrTikcetPrice.Caption" Value="Tikcet price" />
 		</Items>
 	</Group>
 </Resources>

@@ -644,7 +644,6 @@
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references" />
 	<ItemGroup Label="Entity Files">
-		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrDriveType/UsrDriveType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrDriveType/UsrDriveType.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrDriveTypes/UsrDriveTypes.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrDriveTypes/UsrDriveTypes.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrTrafficLight/UsrTrafficLight.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrTrafficLight/UsrTrafficLight.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />

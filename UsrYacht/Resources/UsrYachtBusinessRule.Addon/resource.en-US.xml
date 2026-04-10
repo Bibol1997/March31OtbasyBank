@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.27208684-11c6-fa04-2e6e-3459a1c3d4bc.Caption" Value="Set values: Tikcet price" />
+			<Item Name="AddonConfig.Rules.772cf5b6-c30e-0740-3977-23cf5806563c.Caption" Value="Set values: Comment" />
+			<Item Name="Caption" Value="Yacht (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
