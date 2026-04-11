@@ -5,16 +5,16 @@
   },
   "projects": {
     "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj": {
-      "version": "8.3.3.3193",
+      "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj",
         "projectName": "CrtCoreBase",
         "projectPath": "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj",
-        "packagesPath": "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_Y3DEV\\Default\\dotnet\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
         "outputPath": "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_Y3DEV\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
@@ -47,16 +47,16 @@
       }
     },
     "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj": {
-      "version": "8.3.3.3193",
+      "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj",
         "projectName": "CrtDataForge",
         "projectPath": "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj",
-        "packagesPath": "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_Y3DEV\\Default\\dotnet\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
         "outputPath": "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_Y3DEV\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
