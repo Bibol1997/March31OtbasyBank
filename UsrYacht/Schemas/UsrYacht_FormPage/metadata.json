@@ -71,6 +71,83 @@
   "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
   "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
 }
++ MetaData.Schema.B2 {
+  "UId": "1c89e453-7724-757f-c926-694eaa103345",
+  "A2": "EmailInput_Captain_caption",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "6a3a138c-7f3f-fe0f-b8b1-ccc0b225e0dc",
+  "A2": "EmailInput_xnoji16_label",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "20383613-9b83-b2f5-3bdc-a1b1b79442b8",
+  "A2": "LenghtCannotBeLess",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "df9ee131-cf82-a4fb-2adc-5a857577b3b2",
+  "A2": "PriceCannotBeLess",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "90d57cab-f836-744b-fcd9-3bbe2457e698",
+  "A2": "GridDetailSearchFilter_bjbz1cg_placeholder",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "8158c414-40f4-3b09-57f9-7f57a4f77663",
+  "A2": "GridDetailImportDataBtn_bbtjziv_caption",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "d90e3086-d0aa-8f67-cc64-42ed89d4d694",
+  "A2": "GridDetailExportDataBtn_8mll5xt_caption",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "e7d518b6-7f90-af58-cf60-7127281b59ec",
+  "A2": "GridDetailSettingsBtn_7ol3dsm_caption",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "8a63f4d7-d057-b29f-ee73-28b9ae17d262",
+  "A2": "GridDetailRefreshBtn_o0yfzib_caption",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "16fc6160-6ef6-7d3d-3df9-fe2aafdda762",
+  "A2": "ExpansionPanel_gx86v5r_title",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
++ MetaData.Schema.B2 {
+  "UId": "bc96ea9f-07ff-c087-fade-946d0b080fb3",
+  "A2": "YachtCategories_label",
+  "A3": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A4": "508ce7af-7daa-4c3b-ad83-a1b19c97f5af",
+  "A5": "47027dc3-6413-45a4-9ae3-37c5949ba726"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "508ce7af-7daa-4c3b-ad83-a1b19c97f5af"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "508ce7af-7daa-4c3b-ad83-a1b19c97f5af"
 = MetaData.Schema.B2.["a53e6c9a-741a-21de-9293-9d87d6014595"].A4 "508ce7af-7daa-4c3b-ad83-a1b19c97f5af"
@@ -95,6 +172,17 @@
   "cc5fe1ac-16c3-0187-b74c-2bdcb88d9520",
   "28c0d65e-f3e8-402d-119c-b5c9ad2ee5a9",
   "bb530c69-03e9-515e-cfb4-931fcbd6acf7",
+  "1c89e453-7724-757f-c926-694eaa103345",
+  "6a3a138c-7f3f-fe0f-b8b1-ccc0b225e0dc",
+  "20383613-9b83-b2f5-3bdc-a1b1b79442b8",
+  "df9ee131-cf82-a4fb-2adc-5a857577b3b2",
+  "90d57cab-f836-744b-fcd9-3bbe2457e698",
+  "8158c414-40f4-3b09-57f9-7f57a4f77663",
+  "d90e3086-d0aa-8f67-cc64-42ed89d4d694",
+  "e7d518b6-7f90-af58-cf60-7127281b59ec",
+  "8a63f4d7-d057-b29f-ee73-28b9ae17d262",
+  "16fc6160-6ef6-7d3d-3df9-fe2aafdda762",
+  "bc96ea9f-07ff-c087-fade-946d0b080fb3",
   "fd9e5bd2-19ad-68b5-1356-fe7b39d36f28",
   "a77180d7-a9d0-5c7d-a47b-74c0545a1774",
   "a53e6c9a-741a-21de-9293-9d87d6014595",

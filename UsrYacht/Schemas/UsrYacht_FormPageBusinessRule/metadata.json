@@ -114,7 +114,8 @@
                 "BRT2": 2
               }
             ],
-            "BR3": "BusinessRule_bd0768e"
+            "BR3": "BusinessRule_bd0768e",
+            "BR4": false
           }
         ]
       }

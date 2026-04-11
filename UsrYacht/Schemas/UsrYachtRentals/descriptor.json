@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c9801e5c-c675-4e59-9a6f-389874a6c376",
+    "Name": "UsrYachtRentals",
+    "ModifiedOnUtc": "\/Date(1775910522000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Yacht Rentals"
+  }
+}
