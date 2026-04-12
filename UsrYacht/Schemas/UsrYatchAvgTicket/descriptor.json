@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6d11214a-b404-4665-947d-bf97713cf527",
+    "Name": "UsrYatchAvgTicket",
+    "ModifiedOnUtc": "\/Date(1776019990000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yatch AvgTicket"
+  }
+}

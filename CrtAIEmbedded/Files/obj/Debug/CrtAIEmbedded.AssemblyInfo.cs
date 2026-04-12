@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrtAIEmbedded")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5bb456652bc8809f54fc59137e64b951632a7cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bb29e85e6baf58b20c20bf40eae5c1ddef08949")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrtAIEmbedded")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrtAIEmbedded")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yacht form page" />
+			<Item Name="LocalizableStrings.Button_jrx6ysq_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.EmailInput_Captain_caption.Value" Value="Email address" />
 			<Item Name="LocalizableStrings.EmailInput_xnoji16_label.Value" Value="Email address" />
 			<Item Name="LocalizableStrings.ExpansionPanel_gx86v5r_title.Value" Value="Yacht Rentals" />
@@ -12,6 +13,7 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_bjbz1cg_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_7ol3dsm_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.LenghtCannotBeLess.Value" Value="Мин длинна 10м" />
+			<Item Name="LocalizableStrings.MenuItem_3l9q1ix_caption.Value" Value="AvgTicketPrice" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Минимальная цена 50 USD" />
 			<Item Name="LocalizableStrings.PushMe_caption.Value" Value="Push Me" />
 			<Item Name="LocalizableStrings.YachtCategories_label.Value" Value="Categories" />
