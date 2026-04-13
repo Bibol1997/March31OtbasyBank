@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrtStudioCopilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bb29e85e6baf58b20c20bf40eae5c1ddef08949")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e400821ca55b403658a8806ca7c23039bf3a7c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrtStudioCopilot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrtStudioCopilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A4965C-2E04-21B6-F12C-F280D65AA53D}|UsrYacht\\Files\\UsrYacht.csproj|c:\\academy\\builds\\y3dev\\terrasoft.webapp\\terrasoft.configuration\\pkg\\usryacht\\schemas\\usryachtservice\\usryachtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A4965C-2E04-21B6-F12C-F280D65AA53D}|UsrYacht\\Files\\UsrYacht.csproj|solutionrelative:usryacht\\schemas\\usryachtservice\\usryachtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsrYachtService.cs",
+              "DocumentMoniker": "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrYacht\\Schemas\\UsrYachtService\\UsrYachtService.cs",
+              "RelativeDocumentMoniker": "UsrYacht\\Schemas\\UsrYachtService\\UsrYachtService.cs",
+              "ToolTip": "C:\\Academy\\Builds\\Y3DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrYacht\\Schemas\\UsrYachtService\\UsrYachtService.cs*",
+              "RelativeToolTip": "UsrYacht\\Schemas\\UsrYachtService\\UsrYachtService.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:07:18.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
